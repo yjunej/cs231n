@@ -1,2 +1,3 @@
-# Stanford cs231n 2017 
-## group study assignment repo
+# cs231n
+Stanford CV lecture 2017 cs231n
+## group study assignments repo
